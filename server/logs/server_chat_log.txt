@@ -1,0 +1,58 @@
+[2025-10-25 00:28:48] From ('127.0.0.1', 58278) (decrypted): hello
+[2025-10-25 00:28:48] From ('127.0.0.1', 58278) (encrypted): khoor
+[2025-10-25 00:28:48] Sent ACK to ('127.0.0.1', 58278) (encrypted): DFN: uhfhlyhg 'khoor'
+[2025-10-25 00:29:00] Sent to ('127.0.0.1', 58278) (plain): good
+[2025-10-25 00:30:19] From ('127.0.0.1', 58278) (decrypted): go
+[2025-10-25 00:30:19] From ('127.0.0.1', 58278) (encrypted): jr
+[2025-10-25 00:30:19] Sent ACK to ('127.0.0.1', 58278) (encrypted): DFN: uhfhlyhg 'jr'
+[2025-10-25 00:30:29] Sent to ('127.0.0.1', 58278) (plain): no
+[2025-10-25 11:08:06] From ('127.0.0.1', 55432) (decrypted): hello 
+[2025-10-25 11:08:06] From ('127.0.0.1', 55432) (encrypted): khoor 
+[2025-10-25 11:08:06] Sent ACK to ('127.0.0.1', 55432) (encrypted): DFN: uhfhlyhg 'khoor '
+[2025-10-25 11:08:19] Sent to ('127.0.0.1', 55432) (decrypted): okay
+[2025-10-25 11:08:19] Sent to ('127.0.0.1', 55432) (encrypted): rndb
+[2025-10-25 11:11:54] From ('127.0.0.1', 63287) (decrypted): save as
+[2025-10-25 11:11:54] From ('127.0.0.1', 63287) (encrypted): vdyh dv
+[2025-10-25 11:11:54] From ('127.0.0.1', 63287) (decrypted-from-encrypted): save as
+[2025-10-25 11:13:31] From ('127.0.0.1', 63287) (decrypted): save as
+[2025-10-25 11:13:31] From ('127.0.0.1', 63287) (encrypted): vdyh dv
+[2025-10-25 11:13:31] From ('127.0.0.1', 63287) (decrypted-from-encrypted): save as
+[2025-10-25 11:13:45] Sent to ('127.0.0.1', 63287) (decrypted): okay
+[2025-10-25 11:13:45] Sent to ('127.0.0.1', 63287) (encrypted): rndb
+[2025-10-25 11:16:21] From ('127.0.0.1', 63287) (decrypted): open as
+[2025-10-25 11:16:21] From ('127.0.0.1', 63287) (encrypted): rshq dv
+[2025-10-25 [11:16:21] From ('127.0.0.1', 63287) (decrypted-from-encrypted): open as
+[2025-10-25 11:16:33] Sent to ('127.0.0.1', 63287) (decrypted): okay
+[2025-10-25 11:16:33] Sent to ('127.0.0.1', 63287) (encrypted): rndb
+[2025-10-25 11:17:26] From ('127.0.0.1', 62760) (encrypted): khoor
+[2025-10-25 11:17:26] From ('127.0.0.1', 62760) (decrypted): hello
+[2025-10-25 11:17:26] Sent ACK (encrypted): DFN: khoor
+[2025-10-25 11:17:26] Sent ACK (decrypted): ACK: hello
+[2025-10-25 11:17:40] Sent to ('127.0.0.1', 62760) (encrypted): rndb
+[2025-10-25 11:17:40] Sent to ('127.0.0.1', 62760) (decrypted): okay
+[2025-10-25 11:19:36] Sent welcome (encrypted): Zhofrph wr wkh vhfxuh vhuyhu!
+[2025-10-25 11:19:36] Sent welcome (decrypted): Welcome to the secure server!
+[2025-10-25 11:19:59] From ('127.0.0.1', 64827) (encrypted): forqh wklv
+[2025-10-25 11:19:59] From ('127.0.0.1', 64827) (decrypted): clone this
+[2025-10-25 11:19:59] Sent ACK (encrypted): DFN: forqh wklv
+[2025-10-25 11:19:59] Sent ACK (decrypted): ACK: clone this
+[2025-10-25 11:20:13] Sent to ('127.0.0.1', 64827) (encrypted): shuihfw
+[2025-10-25 11:20:13] Sent to ('127.0.0.1', 64827) (decrypted): perfect
+2-10-25 22:24:15] Sent welcome (decrypted): Welcome to the secure server!
+[2025-10025-10-25 22:24:15] Sent welcome (encrypted): Zhofrph wr wkh vhfxuh vhuyhu!
+[2025-25 22:24:46] From ('127.0.0.1', 61053) (encrypted): khoor
+[2025-10-25 22:24:46] From ('127.0.0.1', 61053) (decrypted): hello
+[2025-10-25 22:24:46] Sent ACK (encrypted): DFN: khoor
+[2025-10-25 22:24:46] Sent ACK (decrypted): ACK: hello
+[2025-10-25 22:24:58] Sent to ('127.0.0.1', 61053) (encrypted): rndb
+[2025-10-25 22:24:58] Sent to ('127.0.0.1', 61053) (decrypted): okay
+[2025-10-25 22:25:06] From ('127.0.0.1', 61053) (encrypted): ebh
+[2025-10-25 22:25:06] From ('127.0.0.1', 61053) (decrypted): bye
+[2025-10-25 22:25:06] Sent ACK (encrypted): DFN: ebh
+[2025-10-25 22:25:06] Sent ACK (decrypted): ACK: bye
+[2025-10-25 22:44:12] Sent welcome (encrypted): Zhofrph wr wkh vhfxuh vhuyhu!
+[2025-10-25 22:44:12] Sent welcome (decrypted): Welcome to the secure server!
+[2025-10-25 22:44:20] From ('127.0.0.1', 50197) (encrypted): khoor
+[2025-10-25 22:44:20] From ('127.0.0.1', 50197) (decrypted): hello
+[2025-10-25 22:44:20] Sent ACK (encrypted): DFN: khoor
+[2025-10-25 22:44:20] Sent ACK (decrypted): ACK: hello

@@ -1,0 +1,63 @@
+[2025-10-25 00:28:48] Sent (decrypted): hello
+[2025-10-25 00:28:48] Sent (encrypted): khoor
+[2025-10-25 00:28:48] Received (plain): DFN: uhfhlyhg 'khoor'
+[2025-10-25 00:29:00] Received (plain): good
+[2025-10-25 00:30:19] Sent (decrypted): go
+[2025-10-25 00:30:19] Sent (encrypted): jr
+[2025-10-25 00:30:19] Received (plain): DFN: uhfhlyhg 'jr'
+[2025-10-25 00:30:29] Received (plain): no
+[2025-10-25 11:08:06] Sent (decrypted): hello 
+[2025-10-25 11:08:06] Sent (encrypted): khoor 
+[2025-10-25 11:08:06] Received (plain): DFN: uhfhlyhg 'khoor '
+[2025-10-25 11:08:19] Received (decrypted): [Server decrypted]: okay
+[2025-10-25 11:08:19] Received (encrypted): [Server encrypted]: rndb
+[2025-10-25 11:11:54] Sent (decrypted): save as
+[2025-10-25 11:11:54] Sent (encrypted): vdyh dv
+[2025-10-25 11:11:54] Received (other): DFN: uhfhlyhg -> [Folhqw ghfubswhg]: vdyh dv
+[2025-10-25 11:11:54] Received (other): DFN: uhfhlyhg -> [Folhqw hqfubswhg]: ygbk gy
+[2025-10-25 11:13:31] Sent (decrypted): save as
+[2025-10-25 11:13:31] Sent (encrypted): vdyh dv
+[2025-10-25 11:13:31] Received (other): DFN: uhfhlyhg -> [Folhqw ghfubswhg]: vdyh dv
+[2025-10-25 11:13:31] Received (other): DFN: uhfhlyhg -> [Folhqw hqfubswhg]: ygbk gy
+[2025-10-25 11:13:45] Received (plain): okay
+[2025-10-25 11:13:45] Received (encrypted): rndb
+[2025-10-25 11:13:45] Decrypted (from encrypted): okay
+[2025-10-25 11:16:21] Received (other): DFN: uhfhlyhg -> [Folhqw ghfubswhg]: rshq dv
+[2025-10-25 11:16:21] Sent (decrypted): open as
+[2025-10-25 11:16:21] Sent (encrypted): rshq dv
+[2025-10-25 11:16:21] Received (other): DFN: uhfhlyhg -> [Folhqw hqfubswhg]: uvkt gy
+[2025-10-25 11:16:33] Received (plain): okay
+[2025-10-25 11:16:33] Received (encrypted): rndb
+[2025-10-25 11:16:33] Decrypted (from encrypted): okay
+[2025-10-25 11:17:26] Sent (encrypted): khoor
+[2025-10-25 11:17:26] Sent (decrypted): hello
+[2025-10-25 11:17:26] Received (encrypted): DFN: khoor
+[2025-10-25 11:17:26] Received (decrypted): ACK: hello
+[2025-10-25 11:17:40] Received (encrypted): rndb
+[2025-10-25 11:17:40] Received (decrypted): okay
+[2025-10-25 11:19:36] Received (encrypted): Zhofrph wr wkh vhfxuh vhuyhu!
+[2025-10-25 11:19:36] Received (decrypted): Welcome to the secure server!
+[2025-10-25 11:19:59] Sent (encrypted): forqh wklv
+[2025-10-25 11:19:59] Sent (decrypted): clone this
+[2025-10-25 11:19:59] Received (encrypted): DFN: forqh wklv
+[2025-10-25 11:19:59] Received (decrypted): ACK: clone this
+[2025-10-25 11:20:13] Received (encrypted): shuihfw
+[2025-10-25 11:20:13] Received (decrypted): perfect
+[2025-10-25 22:24:15] Received (encrypted): Zhofrph wr wkh vhfxuh vhuyhu!
+[2025-10-25 22:24:15] Received (decrypted): Welcome to the secure server!
+[2025-10-25 22:24:46] Sent (encrypted): khoor
+[2025-10-25 22:24:46] Sent (decrypted): hello
+[2025-10-25 22:24:46] Received (encrypted): DFN: khoor
+[2025-10-25 22:24:46] Received (decrypted): ACK: hello
+[2025-10-25 22:24:58] Received (encrypted): rndb
+[2025-10-25 22:24:58] Received (decrypted): okay
+[2025-10-25 22:25:06] Sent (encrypted): ebh
+[2025-10-25 22:25:06] Sent (decrypted): bye
+[2025-10-25 22:25:06] Received (encrypted): DFN: ebh
+[2025-10-25 22:25:06] Received (decrypted): ACK: bye
+[2025-10-25 22:44:12] Received (encrypted): Zhofrph wr wkh vhfxuh vhuyhu!
+[2025-10-25 22:44:12] Received (decrypted): Welcome to the secure server!
+[2025-10-25 22:44:20] Sent (encrypted): khoor
+[2025-10-25 22:44:20] Sent (decrypted): hello
+[2025-10-25 22:44:20] Received (encrypted): DFN: khoor
+[2025-10-25 22:44:20] Received (decrypted): ACK: hello
